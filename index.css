@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    box-sizing: 0px;
+    
+
+
+}
+.heading{
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    font-size:25px;
+    padding:10px;
+    color:white;
+    background-color:#066163;
+    
+}
+
+.sec1{
+    padding: 10px;
+    border-left: solid  10px #066163;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: cursive;}
+   
+    .sec2{
+        font-family: system-ui;
+        font-size: 20px;
+        margin: 5px ;
+        padding: 5px;
+    }
+    .sp1{
+        color: #066163;
+    }
+
+  .a1{
+
+    color: white;
+    background-color: #066163;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: cursive;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .footer{
+      background-color: #066163;
+      color: white;
+      font-family: cursive;
+      text-align: center;
+      margin-top: 50px;
+      padding: 10px;
+  }
